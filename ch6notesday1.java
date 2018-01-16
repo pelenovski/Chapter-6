@@ -129,7 +129,17 @@ System.out.println("---------------------------------------------"  );
 		}
 	}
 
+	public static getEven(int [] num, int evennum [])
+	{
+		int j = 0;
+		for (int i = 0; i < num.length; i++)
+		{
+			if num[i] %2 == 0)
+			{
 
+			}
+		}
+	}
 
 
 
